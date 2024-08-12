@@ -1,0 +1,13 @@
+h1 {
+    color:red;
+    background-color: antiquewhite;
+    width: 50%;
+    
+}
+.subtitulo {
+    color: blue;
+    background-color: cyan;
+}
+#unico {
+    color: blueviolet;
+}
